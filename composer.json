@@ -1,7 +1,7 @@
 {
-    "name": "tangocard/raas",
+    "name": "Dimonion/tangocard_php_sdk",
     "type": "library",
-    "description": "With this RESTful API you can integrate a global reward or incentive program into your app or platform. If you have any questions or if you'd like to receive your own credentials, please contact us at devsupport@tangocard.com.",
+    "description": "Tango Card PHP SDK",
     "keywords": ["Tango Card RaaS v2 API","API","SDK"],
     "homepage": "https://tangocard.com",
     "license": "Apache-2.0",
