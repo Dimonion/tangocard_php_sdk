@@ -1,4 +1,5 @@
-# tangocard_php_sdk
+This is a copy of the official tangocard php sdk repository which was deleted.
+
 TangoCard PHP SDK
 =======
 How To Configure:
