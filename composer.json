@@ -1,5 +1,5 @@
 {
-    "name": "Dimonion/tangocard_php_sdk",
+    "name": "dimonion/tangocard_php_sdk",
     "type": "library",
     "description": "Tango Card PHP SDK",
     "keywords": ["Tango Card RaaS v2 API","API","SDK"],
